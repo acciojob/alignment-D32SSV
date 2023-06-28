@@ -1,1 +1,42 @@
 /*  your css code here. If applicable */
+.middle{
+    margin: auto;
+    width: 60%;
+}
+
+.center{
+    text-align: center;
+}
+
+.right{
+    text-align: right;
+}
+
+.green{
+    background-color: green;
+    height: 10px;
+}
+
+.blue{
+    background-color: blue;
+    height: 10px;
+}
+
+img {
+    width: 200px;
+
+}
+
+#t-image {
+    display: flex;
+    justify-content: center;
+}
+
+#table-2 tr td {
+    height: 10px;
+
+}
+
+h1 {
+    text-align: center;
+}
